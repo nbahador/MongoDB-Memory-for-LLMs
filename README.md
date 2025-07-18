@@ -1,4 +1,4 @@
-# LLM Chat with Memory
+# LLM Chat with MongoDB Memory
 
 A chatbot web application with long-term memory capabilities using MongoDB. Persistently stores conversations with optimized retrieval using indexes on agent_id, timestamp, and tags. Removes duplicate sentences and combines recency with importance for smart memory retrieval.
 
